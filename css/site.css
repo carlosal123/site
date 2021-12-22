@@ -1,0 +1,98 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+
+body {
+    background-color: #000;
+    color: rgb(241, 241, 241);
+    padding: 10px 30px;
+    background: url('https://data.1freewallpapers.com/download/hearts-frame-love-red-1600x1200.jpg') no-repeat;
+    height: 100vh;
+    background-position: center;
+    font-family: Arial;
+    background-color: black;
+    
+}
+
+.texto-esquerda {
+    position: absolute;
+    bottom: -125px;
+    margin: 5px;
+    
+}
+
+.cabecalho {
+    font-size: 1.8rem;
+    margin-top: 20px;
+}
+
+.cabecalho ul {
+    background-color: #000;
+    opacity: 0.6;
+    padding: 25px 50px;
+    border-radius: 50px;
+    box-shadow: 0px 0px 5px black;
+    text-align: left;
+}
+
+.cabecalho a {
+    display: inline;
+    text-decoration: none;
+    color: rgb(244, 244, 250);
+    font-weight: 700;
+    text-align: left;
+    
+    /* font-weight: bold; */
+}
+
+.menu {
+    float: left;
+    width: auto;
+    position: left;
+    right: 0;
+    top: 50%;
+    width: 8em;
+    margin: top 100px;;
+    font-size: 10px;
+    
+}
+
+.menu li {
+    list-style: none;
+    list-style-type: none;
+    padding: 13px;
+    display: inline-block;
+    letter-spacing: 1.5px;
+    margin-right: 10px;
+    text-transform: uppercase;
+    margin-top: -8px;
+    border-radius: 25px;
+    transition: 0.7s all;
+    margin-top: -200px;
+    text-align: left;
+}
+.container {
+    height: 100px;
+}
+
+.menu li:hover {
+    transition: 0.7s all;
+    background-color: #fff;
+    color: rgb(182, 12, 12);
+    text-align: left;
+}
+
+.rodape {
+    padding: 50px;
+    
+}
+
+.site h3 {
+    background-color: rgb(248, 244, 244);
+}
+
+
