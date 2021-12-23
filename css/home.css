@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    background: url('https://s1.1zoom.me/big7/156/League_of_Legends_Warriors_Akali_Rogue_Assassin_558507_1920x1080.jpg')no-repeat;
+    background-color: black;
+}
+.sobre {
+    color: white;
+    max-width: 980px;
+    text-align: center;
+    margin: 5rem auto;
+}
+
+.sobre h3 {
+    font-size: 4rem;
+}
+.sobre p {
+    font-size: 2rem;
+}
